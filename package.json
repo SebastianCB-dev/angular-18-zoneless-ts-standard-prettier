@@ -1,6 +1,12 @@
 {
   "name": "angular18-boilerplate",
   "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Joan Sebastián Carrillo Barón",
+      "email": "sebastian.carrillob01@gmail.com"
+    }
+  ],
   "scripts": {
     "ng": "ng",
     "start": "npm run start:dev",
